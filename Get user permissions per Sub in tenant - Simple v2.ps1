@@ -9,6 +9,7 @@ Connect-AzAccount
 # Get the user object for the user based in display name
 #$user = Get-AzADUser -SearchString "displayName eq 'John Smith"
 
+
 # Initialize an array to store the results
 $results = @()
 
