@@ -592,4 +592,5 @@ if(!($HideSummaryAtEnd))
  {
   Write-Host "No logs found" 
  }
+
 }
